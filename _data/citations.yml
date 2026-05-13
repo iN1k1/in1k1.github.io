@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-01'
+  last_updated: '2026-05-13'
 papers:
   tSbe868AAAAJ:-f6ydRqryjwC:
     citations: 6
@@ -118,7 +118,7 @@ papers:
     title: Advanced Artificial Vision and Mobile Devices for New Applications in Learning, Entertainment and Cultural Heritage Domains
     year: '2013'
   tSbe868AAAAJ:J-pR_7NvFogC:
-    citations: 4
+    citations: 5
     title: Physics Informed Capsule Enhanced Variational AutoEncoder for Underwater Image Enhancement
     year: '2025'
   tSbe868AAAAJ:KxtntwgDAa4C:
@@ -154,7 +154,7 @@ papers:
     title: Deep convolutional feature details for better knee disorder diagnoses in magnetic resonance images
     year: '2022'
   tSbe868AAAAJ:P5F9QuxV20EC:
-    citations: 50
+    citations: 51
     title: Cloth-changing person re-identification with self-attention
     year: '2022'
   tSbe868AAAAJ:PELIpwtuRlgC:
@@ -182,7 +182,7 @@ papers:
     title: Saliency weighted features for person re-identification
     year: '2014'
   tSbe868AAAAJ:SeFeTyx0c_EC:
-    citations: 663
+    citations: 665
     title: The seventh visual object tracking VOT2019 challenge results
     year: '2019'
   tSbe868AAAAJ:TFP_iSt0sucC:
@@ -234,7 +234,7 @@ papers:
     title: 'The evolution of neural learning systems: a novel architecture combining the strengths of NTs, CNNs, and ELMs'
     year: '2016'
   tSbe868AAAAJ:XiSMed-E-HIC:
-    citations: 152
+    citations: 156
     title: The tenth visual object tracking vot2022 challenge results
     year: '2022'
   tSbe868AAAAJ:Y0pCki6q_DkC:
@@ -318,7 +318,7 @@ papers:
     title: Tracking-by-trackers with a distilled and reinforced model
     year: '2020'
   tSbe868AAAAJ:d1gkVwhDpl0C:
-    citations: 134
+    citations: 135
     title: Re-identify people in wide area camera network
     year: '2012'
   tSbe868AAAAJ:dfsIfKJdRG4C:
@@ -374,7 +374,7 @@ papers:
     title: Accelerated low-rank sparse metric learning for person re-identification
     year: '2018'
   tSbe868AAAAJ:j3f4tGmQtD8C:
-    citations: 42
+    citations: 43
     title: 'Coverage control of multiple unmanned aerial vehicles: A short review'
     year: '2018'
   tSbe868AAAAJ:kRWSkSYxWN8C:
@@ -414,7 +414,7 @@ papers:
     title: 'Mar-dtn: Metal artifact reduction using domain transformation network for radiotherapy planning'
     year: '2025'
   tSbe868AAAAJ:qUcmZB5y_30C:
-    citations: 307
+    citations: 308
     title: Wide-slice residual networks for food recognition
     year: '2018'
   tSbe868AAAAJ:qjMakFHDy7sC:
@@ -450,7 +450,7 @@ papers:
     title: An exploration of target-conditioned segmentation methods for visual object trackers
     year: '2020'
   tSbe868AAAAJ:vV6vV6tmYwMC:
-    citations: 74
+    citations: 75
     title: Aggregating deep pyramidal representations for person re-identification
     year: '2019'
   tSbe868AAAAJ:wbdj-CoPYUoC:
