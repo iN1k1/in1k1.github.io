@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-13'
+  last_updated: '2026-05-18'
 papers:
   tSbe868AAAAJ:-f6ydRqryjwC:
     citations: 6
@@ -90,7 +90,7 @@ papers:
     title: Robustness of Artificial Intelligence for Hybrid Warfare
     year: Unknown Year
   tSbe868AAAAJ:D03iK_w7-QYC:
-    citations: 25
+    citations: 26
     title: Improving MRI-based knee disorder diagnosis with pyramidal feature details
     year: '2021'
   tSbe868AAAAJ:D_sINldO8mEC:
@@ -121,6 +121,10 @@ papers:
     citations: 5
     title: Physics Informed Capsule Enhanced Variational AutoEncoder for Underwater Image Enhancement
     year: '2025'
+  tSbe868AAAAJ:JoZmwDi-zQgC:
+    citations: 0
+    title: 'H3D-MarNet: Wavelet-Guided Dual-Path Learning for Metal Artifact Suppression and CT Modality Transformation for Radiotherapy Workflows'
+    year: '2026'
   tSbe868AAAAJ:KxtntwgDAa4C:
     citations: 2
     title: Oriented splits network to distill background for vehicle re-identification
@@ -182,7 +186,7 @@ papers:
     title: Saliency weighted features for person re-identification
     year: '2014'
   tSbe868AAAAJ:SeFeTyx0c_EC:
-    citations: 665
+    citations: 666
     title: The seventh visual object tracking VOT2019 challenge results
     year: '2019'
   tSbe868AAAAJ:TFP_iSt0sucC:
@@ -234,7 +238,7 @@ papers:
     title: 'The evolution of neural learning systems: a novel architecture combining the strengths of NTs, CNNs, and ELMs'
     year: '2016'
   tSbe868AAAAJ:XiSMed-E-HIC:
-    citations: 156
+    citations: 155
     title: The tenth visual object tracking vot2022 challenge results
     year: '2022'
   tSbe868AAAAJ:Y0pCki6q_DkC:
@@ -454,7 +458,7 @@ papers:
     title: Aggregating deep pyramidal representations for person re-identification
     year: '2019'
   tSbe868AAAAJ:wbdj-CoPYUoC:
-    citations: 0
+    citations: 1
     title: 'ReMAR-DS: Recalibrated Feature Learning for Metal Artifact Reduction and CT Domain Transformation'
     year: '2025'
   tSbe868AAAAJ:xtRiw3GOFMkC:
