@@ -1,10 +1,12 @@
 # this file contains the social media links and usernames of the author
 # the socials will be displayed in the order they are defined here
 # for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
-cv_pdf: /assets/pdf/Niki_Martinel_CV.pdf # path to your CV PDF file
+scholar_userid: tSbe868AAAAJ
 github_username: iN1k1
 linkedin_username: niki-martinel
-scholar_userid: tSbe868AAAAJ
+x_username: iN1k1
+orcid_id: 0000-0002-6962-8643
+cv_pdf: /assets/pdf/Niki_Martinel_CV.pdf # path to your CV PDF file
 rss_icon: true # comment this line to hide the RSS icon
 # wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 # whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
